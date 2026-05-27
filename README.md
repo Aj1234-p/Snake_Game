@@ -4,14 +4,7 @@ A fully functional browser-based Snake Game built with **pure HTML, CSS, and Jav
 
 🔗 **Live Demo:** `coming soon — add your GitHub Pages link here`
 
----
-
-## 📸 Screenshots
-
-
-
-
----
+-----
 
 ## 🎯 What This Project Does
 
