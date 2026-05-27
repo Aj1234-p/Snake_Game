@@ -261,9 +261,9 @@ open index.html
 
 ```
 snake-game/
-├── index.html      # Game layout, modals, score display
-├── style.css       # Grid styling, snake/food colors, modals
-└── script.js       # All game logic
+├── sg.html      # Game layout, modals, score display
+├── sg.css       # Grid styling, snake/food colors, modals
+└── sg.js       # All game logic
     ├── Grid setup         # Dynamic block creation with coordinates
     ├── render()           # Main game loop — movement + collision
     ├── startButton        # Start game + setInterval
