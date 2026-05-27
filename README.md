@@ -8,7 +8,7 @@ A fully functional browser-based Snake Game built with **pure HTML, CSS, and Jav
 
 ## 📸 Screenshots
 
-| Start Screen | Game Grid | Coordinate System |
+
 
 
 ---
